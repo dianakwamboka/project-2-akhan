@@ -8,3 +8,5 @@ Technologies used:
     js-designing and making the webpage interactive.
    Contact information:
    E-mail -diana.kwamboka@student.moringaschool.com
+   Tell: +254706941602
+   
