@@ -10,5 +10,5 @@
    E-mail -diana.kwamboka@student.moringaschool.com
    Tell: +254706941602
    # license
-   
+   MIT License
    
