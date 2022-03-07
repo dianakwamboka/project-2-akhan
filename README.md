@@ -11,7 +11,7 @@
    E-mail -diana.kwamboka@student.moringaschool.com
    Tell: +254706941602
    # license
-   MIT License
+   MIT LICENSE
    Copyright (c) 2022 Diana
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
