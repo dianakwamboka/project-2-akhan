@@ -6,7 +6,7 @@
    HTML- For creating the webpage
    css-styling
     js-designing and making the webpage interactive.
-    live link:https://dianakwamboka.github.io/project-2-akhan/
+   # live link:https://dianakwamboka.github.io/project-2-akhan/
    # Contact information:
    E-mail -diana.kwamboka@student.moringaschool.com
    Tell: +254706941602
