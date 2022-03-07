@@ -5,5 +5,5 @@ Author Name;Diana Kwamboka
 Technologies used:
    HTML- For creating the webpage
    css-styling
-   
+    js-designing and making the webpage interactive.
    
